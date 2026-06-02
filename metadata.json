@@ -1,0 +1,6 @@
+{
+  "name": "Natural Voiceover Studio",
+  "description": "Sleek and soothing neural text-to-speech studio featuring dual engines (Google Gemini Neural and Microsoft Edge Speech) with comprehensive voiceover history and instant mobile QR code sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
